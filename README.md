@@ -50,7 +50,7 @@ A collaborative project management platform built with **React + Spring Boot + P
 Real-time **fraud detection system** using **Java + Apache Flink + MongoDB**  
 > ⚙️ Stream-based processing | 📊 Real-time anomaly detection  
 
-### 🔹 [Streamify](https://github.com/Gninho-silue/Streamify)  
+### 🔹 [Streamify](https://github.com/Gninho-silue/smartcollab)  
 AI-powered annotation and collaboration platform built with **React + Node.js + PostgreSQL**  
 > 🤝 Multi-user workspace | 🧠 Smart labeling automation  
 
@@ -68,6 +68,7 @@ AI-powered annotation and collaboration platform built with **React + Node.js + 
 📧 [gninninmaguignonsilue@gmail.com](mailto:gninninmaguignonsilue@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gninema-silue)  
 💼 [GitHub](https://github.com/Gninho-silue)  
+🌍 [Portfolio soon...]
 
 ---
 
