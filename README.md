@@ -80,7 +80,7 @@ A modern learning language platform built with the MERN stack (MongoDB, Express.
 📧 [gninninmaguignonsilue@gmail.com](mailto:gninninmaguignonsilue@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gninema-silue)  
 💼 [GitHub](https://github.com/Gninho-silue)  
-🌍 Portfolio: *coming soon...*  
+🌍 [Portfolio](https://silue-portfolio.vercel.app/#contact)  
 📍 Morocco
 
 ---
