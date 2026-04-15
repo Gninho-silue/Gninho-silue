@@ -1,149 +1,160 @@
-# 👋 Hi, I'm **Silué Gninninmaguignon**
+<div align="center">
+
+# Hey, I'm Gninninmaguignon Silué 👋
+
+**Full-Stack Developer · Cloud-Native Architect · AI Enthusiast**
+
+*Building high-performance distributed systems and modern web applications*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-silue--dev.vercel.app-2453D3?style=flat&logo=vercel&logoColor=white)](https://silue-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gninema--silue-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gninema-silue)
+[![Email](https://img.shields.io/badge/Email-gninninmaguignonsilue@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gninninmaguignonsilue@gmail.com)
+[![DevScope](https://img.shields.io/badge/DevScope-Try_it-00D4FF?style=flat&logo=github&logoColor=white)](https://devscope-lake.vercel.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gninho-silue&color=2453D3&style=flat)
+
+</div>
 
 ---
 
-## 👤 About Me
+## 🚀 About Me
 
-I'm a passionate final-year Computer Engineering student at ENSA Al Hoceima, Morocco, with a deep interest in building impactful software solutions. My journey blends full-stack development expertise (Java Spring Boot, React.js, Node.js) with a curiosity for **Cloud-Native Architectures** and **AI-powered systems**.  
+Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 2026), specializing in **Cloud-Native architectures** and **distributed systems**.
 
-I thrive working on collaborative projects and creative challenges—whether architecting **distributed microservices**, designing modern web interfaces, or exploring the frontiers of automation and machine learning.  
-
-Driven by logic, purpose, and curiosity, I'm always eager to learn, grow, and contribute to meaningful tech innovations.
-
----
-
-🎓 **Final-year Computer Engineering student at ENSA Al Hoceima, Morocco**  
-💻 **Full-Stack Developer** | Java Spring Boot • React.js • Node.js  
-☁️ **Cloud & Microservices Enthusiast** | Docker • Kubernetes • Event-Driven Architecture  
-🤖 Passionate about **AI, Distributed Systems & Intelligent Applications**
+- 🔭 Currently building an **e-commerce platform on Odoo 17 + Flutter mobile app** (PFE @ TechPal)
+- 🌱 Exploring **AI integration** in production systems
+- 💼 **Available July 2026** for junior positions or remote opportunities
+- 🌍 Based in **Casablanca, Morocco** — open to remote worldwide
+- ⚡ Fun fact: I think about **scalability** before writing the first line of code
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Backend
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-
-### 🤖 AI & ML
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_AI-6C63FF?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_AI-FF007F?style=for-the-badge)
+### Databases & Observability
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
-### 🏦 [Banking Microservices System](https://github.com/Gninho-silue/banking-microservices)  
-A production-grade **Cloud-Native Banking Platform** built with **Java 21 + Spring Cloud + Kafka + Kubernetes**  
-> ☁️ Microservices Architecture | 🔄 Event-Driven (Kafka) | 🛡️ OAuth2/OIDC Security (Keycloak)  
-> 📊 Full Observability (Grafana LGTM Stack) | 🚀 K8s Deployment (Helm Charts) | 🔧 Resilience4j Patterns
+### 🔍 [DevScope](https://github.com/Gninho-silue/devscope) — AI GitHub Profile Analyzer
+> Analyze any GitHub profile with AI — get seniority level, stack breakdown, strengths and job recommendations
 
-**Tech Stack:** Spring Boot 3, Spring Cloud (Gateway, Config, Eureka), Apache Kafka, MySQL, Docker, Kubernetes, Grafana, Prometheus, Loki, Tempo, OpenTelemetry
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-FF007F?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
 
----
-
-### 🔹 [TaskPro](https://github.com/Gninho-silue/TaskPro)  
-A collaborative project management platform built with **React + Spring Boot + PostgreSQL + WebSocket**  
-> 🧩 Real-time task updates | 🔐 JWT Authentication | 🎨 Modern Kanban UI | 📝 OpenAPI Documentation
-
-**Tech Stack:** Spring Boot, React, PostgreSQL, WebSocket/STOMP, Docker, JUnit/Mockito
+**[🌐 Live Demo](https://devscope-lake.vercel.app)** · **[📦 Source Code](https://github.com/Gninho-silue/devscope)**
 
 ---
 
-### 🔹 [SmartCollab](https://github.com/Gninho-silue/smartcollab)  
-AI-powered collaboration platform built with **Node.js + TypeScript + React + PostgreSQL**  
-> 🤝 Multi-user workspace | 🧠 AI Assistant (Groq/Hugging Face) | ⚡ Real-time (Socket.io) | 🔄 Redis Caching
+### 🏦 [Banking Microservices](https://github.com/Gninho-silue/banking-microservices) — Cloud-Native Banking Platform
+> Production-grade distributed banking system with event-driven architecture
 
-**Tech Stack:** Node.js, TypeScript, React, PostgreSQL, Redis, Socket.io, Docker
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/LGTM_Stack-F46800?style=flat&logo=grafana)
 
----
-
-### 🔹 [AnnotePro](https://github.com/Gninho-silue/AnnotePro)  
-A modern web platform for collaborative text annotation, developed with **Spring Boot + Thymeleaf**  
-> 📝 Multi-user annotation | 🎯 Role-based access control | 🔍 Advanced search
-
-**Tech Stack:** Spring Boot, Thymeleaf, MySQL, Spring Security
-
----
-
-### 🔹 [Streamify](https://github.com/Gninho-silue/streamify)  
-A modern language learning platform built with the **MERN stack**  
-> 🌍 Real-time video chat | 💬 Instant messaging | 🎓 Interactive learning
-
-**Tech Stack:** MongoDB, Express.js, React, Node.js, Stream.io
+- ☁️ Microservices with Spring Cloud Gateway, Config Server, Eureka
+- 🔄 Event-driven with Apache Kafka + Spring Cloud Stream
+- 🛡️ OAuth2/OIDC security via Keycloak
+- 📊 Full observability — Grafana, Prometheus, Loki, Tempo, OpenTelemetry
+- 🚀 Kubernetes deployment with Helm Charts
 
 ---
 
-### 🤖 [Movie Recommendation System](https://github.com/Gninho-silue/movie-recommendation-ml)  
-Deep Learning recommendation engine with **PyTorch + AWS SageMaker**  
-> 🎬 Personalized recommendations | ☁️ Cloud deployment | 📊 Streamlit UI
+### ✅ [TaskPro](https://github.com/Gninho-silue/TaskPro) — Collaborative Project Management
+> Trello/Jira-inspired platform with real-time updates
 
-**Tech Stack:** PyTorch, AWS SageMaker, Flask, Streamlit
-
----
-
-## 🎯 Core Competencies
-
-- **Microservices Architecture** - Design, implementation, and orchestration of distributed systems
-- **Event-Driven Architecture** - Asynchronous communication patterns with Kafka
-- **Cloud-Native Development** - Containerization (Docker), orchestration (Kubernetes), and observability
-- **Full-Stack Development** - End-to-end application development from database to UI
-- **DevOps Practices** - CI/CD, Infrastructure as Code, monitoring, and logging
-- **Security** - OAuth2/OIDC, JWT, role-based access control
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 
 ---
 
-## 🧩 Interests
+### 🤝 [SmartCollab](https://github.com/Gninho-silue/smartcollab) — AI-Powered Collaboration
+> Team workspace with AI assistant for meeting summaries
 
-💡 **Cloud-Native Architectures** & Microservices Patterns  
-🌍 **Distributed Systems** & Event-Driven Design  
-🧠 **AI for Automation** & Industry 4.0  
-📊 **Observability** & System Reliability Engineering  
-🔐 **Security** & Identity Management
-
----
-
-## 📫 Contact
-
-📧 [gninninmaguignonsilue@gmail.com](mailto:gninninmaguignonsilue@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gninema-silue)  
-💼 [GitHub](https://github.com/Gninho-silue)  
-🌍 [Portfolio](https://silue-portfolio.vercel.app/#contact)  
-📍 Morocco
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio)
 
 ---
 
-⭐ *"Code with logic, build with purpose, and learn with curiosity."*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gninho-silue&theme=tokyonight&hide_border=true&background=060B18&stroke=2453D3&ring=00D4FF&fire=00D4FF&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=64748B)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Oracle Cloud Infrastructure 2025 Certified**
+- ☕ **Oracle Certified Professional: Java SE 17 Developer**
+- 🐳 **Master Microservices with SpringBoot, Docker, Kubernetes**
+- ⚙️ **Certified DevOps Professional**
+- 🐍 **Python: Formation Complète**
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|---|---|---|
+| Mar 2026 – Jul 2026 | Full-Stack Developer Intern (PFE) | TechPal, Casablanca |
+| Aug 2025 – Nov 2025 | Full-Stack Developer | TechPal, Casablanca |
+| Aug 2024 – Sep 2024 | Frontend Developer | ISB Maroc, Casablanca |
+
+---
+
+## 🌐 Personal Website
+
+Check out my full portfolio with bilingual support (FR/EN), dark/light mode, and all my projects:
+
+**[silue-dev.vercel.app](https://silue-dev.vercel.app)**
+
+---
+
+<div align="center">
+
+*"Code with logic, build with purpose, learn with curiosity."*
+
+**🟢 Available July 2026 — Open to remote opportunities worldwide**
+
+</div>
