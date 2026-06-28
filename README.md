@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-silue--dev.vercel.app-2453D3?style=flat&logo=vercel&logoColor=white)](https://silue-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gninema--silue-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gninema-silue)
 [![Email](https://img.shields.io/badge/Email-gninninmaguignonsilue@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gninninmaguignonsilue@gmail.com)
+[![JobPilot](https://img.shields.io/badge/JobPilot-Live_SaaS-F59E0B?style=flat&logo=vercel&logoColor=white)](https://jobpilot-jet.vercel.app)
 [![DevScope](https://img.shields.io/badge/DevScope-Try_it-00D4FF?style=flat&logo=github&logoColor=white)](https://devscope-lake.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gninho-silue&color=2453D3&style=flat)
@@ -19,11 +20,11 @@
 
 ## 🚀 About Me
 
-Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 2026), specializing in **Cloud-Native architectures** and **distributed systems**.
+Software engineer graduate from **ENSA Al Hoceima** (graduated June 2026), specializing in **Cloud-Native architectures** and **distributed systems**.
 
-- 🔭 Currently building an **e-commerce platform on Odoo 17 + Flutter mobile app** (PFE @ TechPal)
-- 🌱 Exploring **AI integration** in production systems
-- 💼 **Available July 2026** for junior positions or remote opportunities
+- 🔭 Currently building **JobPilot** — AI job search SaaS, live at [jobpilot-jet.vercel.app](https://jobpilot-jet.vercel.app)
+- 🌱 Exploring **AI Agents** and **LLM integration** in production systems
+- 💼 **Available ** for junior positions or remote opportunities
 - 🌍 Based in **Casablanca, Morocco** — open to remote worldwide
 - ⚡ Fun fact: I think about **scalability** before writing the first line of code
 
@@ -37,6 +38,7 @@ Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 ### Frontend
@@ -46,15 +48,24 @@ Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
+### AI & LLM
+![Groq](https://img.shields.io/badge/Groq_API-FF007F?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### Databases & Observability
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -64,8 +75,46 @@ Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 
 
 ## 🏆 Featured Projects
 
+### ✈️ [JobPilot](https://github.com/Gninho-silue/jobpilot) — AI-Powered Job Search SaaS
+> Bilingual (FR/EN) SaaS: CV adaptation, cover letter generation and interview prep with AI feedback
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-FF007F?style=flat)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+
+- 🤖 AI adapts your CV and writes cover letters in FR or EN automatically
+- 🎤 10 targeted interview questions + AI feedback on your answers (Pro)
+- 📋 Kanban job tracker with auto-parsing of job offers
+- 💳 Stripe subscriptions (Free / Pro $9/mo), Clerk OAuth, CI/CD GitHub Actions
+
+**[🌐 Live Demo](https://jobpilot-jet.vercel.app)** · **[📦 Source Code](https://github.com/Gninho-silue/jobpilot)**
+
+---
+
+### 🤖 [AgentFlow](https://github.com/Gninho-silue/agentflow) — Multi-Agent Task Automation
+> 5 specialized AI agents coordinated via LangGraph — local LLM, zero API cost
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- 🧠 Pipeline: Planner → FileAgent → CodeAgent → Reporter → Supervisor
+- 💻 Local Llama 3.2 via Ollama — zero API cost, runs fully offline
+- 📊 Analyzes CSV/JSON/TXT files and generates Markdown reports
+- ⚡ Real-time WebSocket streaming, premium dark-mode UI
+
+**[📦 Source Code](https://github.com/Gninho-silue/agentflow)**
+
+---
+
 ### 🔍 [DevScope](https://github.com/Gninho-silue/devscope) — AI GitHub Profile Analyzer
-> Analyze any GitHub profile with AI — get seniority level, stack breakdown, strengths and job recommendations
+> Analyze any GitHub profile with AI — get seniority level, stack breakdown and job recommendations
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -100,16 +149,11 @@ Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-### 🤝 [SmartCollab](https://github.com/Gninho-silue/smartcollab) — AI-Powered Collaboration
-> Team workspace with AI assistant for meeting summaries
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio)
+- 🔐 Secure REST API with JWT and RBAC
+- ⚡ Real-time notifications via WebSocket/STOMP
+- 🧪 JUnit/Mockito tests, Docker Compose
 
 ---
 
@@ -118,6 +162,8 @@ Final-year Computer Engineering student at **ENSA Al Hoceima** (graduating July 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gninho-silue&theme=tokyonight&hide_border=true&background=060B18&stroke=2453D3&ring=00D4FF&fire=00D4FF&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=64748B)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gninho-silue&layout=compact&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00D4FF&text_color=E2E8F0)
 
 </div>
 
@@ -155,6 +201,6 @@ Check out my full portfolio with bilingual support (FR/EN), dark/light mode, and
 
 *"Code with logic, build with purpose, learn with curiosity."*
 
-**🟢 Available July 2026 — Open to remote opportunities worldwide**
+**🟢 Available  — Open to remote opportunities worldwide**
 
 </div>
