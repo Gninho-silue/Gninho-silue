@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎓_ENSA_Al_Hoceima-Génie_Informatique_2026-2453D3?style=for-the-badge&labelColor=161D31"/>
+<img src="https://img.shields.io/badge/🎓_ENSA_Al_Hoceima-Computer Science_2026-2453D3?style=for-the-badge&labelColor=161D31"/>
 <img src="https://img.shields.io/badge/📍_Casablanca-Morocco-6D28D9?style=for-the-badge&labelColor=161D31"/>
 
 <br/><br/>
