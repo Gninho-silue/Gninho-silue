@@ -44,4 +44,4 @@ My final year project handed me Odoo and Flutter — two stacks I'd never touche
 
 ---
 
-📫 **gninninmaguignonsilue@gmail.com** · [LinkedIn](https://linkedin.com/in/gninema-silue) · [Portfolio](https://silue-dev.vercel.app)
+**gninninmaguignonsilue@gmail.com** · [LinkedIn](https://linkedin.com/in/gninema-silue) · [Portfolio](https://silue-dev.vercel.app)
