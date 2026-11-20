@@ -34,9 +34,9 @@ Planner → FileAgent → CodeAgent → Reporter → Supervisor, running fully o
 
 ## Stack I actually use
 
-**Backend:** Java 21 · Spring Boot · Spring Cloud · Kafka · Python · FastAPI · Odoo 17
-**Frontend:** React · Next.js · TypeScript
-**Data:** PostgreSQL · MySQL · Redis · MongoDB
+**Backend:** Java 21 · Spring Boot · Spring Cloud · Kafka · Python · FastAPI · Odoo 17  
+**Frontend:** React · Next.js · TypeScript  
+**Data:** PostgreSQL · MySQL · Redis · MongoDB   
 **Testing & infra:** JUnit · Mockito · Testcontainers · Docker · GitHub Actions · Kubernetes manifests / Helm
 
 **Certifications:** Oracle Certified Professional, Java SE 17 · OCI DevOps Professional
