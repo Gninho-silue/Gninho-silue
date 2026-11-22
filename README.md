@@ -26,9 +26,9 @@ Answers questions from my CVs and recommendation letters, cites the source of ev
 Next.js 14 · TypeScript · Groq · GitHub REST API
 Scores a GitHub profile from 0 to 100, flags stack gaps and suggests matching roles. 31 tests, CI through to Vercel.
 
-**[AgentFlow](https://github.com/Gninho-silue/agentflow)**: 5-agent pipeline on a local LLM
-Python · FastAPI · LangGraph · Ollama (Llama 3.2)
-Planner → FileAgent → CodeAgent → Reporter → Supervisor, running fully offline with no API cost.
+**[AgentFlow](https://agentflow-alpha-azure.vercel.app)**: 5-agent data analysis pipeline
+Python · FastAPI · LangGraph · Ollama / Groq · React
+Planner → FileAgent → CodeAgent → Reporter → Supervisor. Generated code runs in an isolated subprocess and fixes itself from its own tracebacks; every number and ranking in the final report is checked against the computed results. Runs fully local with Ollama; the hosted demo uses Groq.
 
 ---
 
