@@ -14,9 +14,7 @@ I graduated from ENSA Al Hoceima in June 2026. Two internships at TechPal on sta
 Java 21 · Spring Boot 4 · Spring Cloud · Kafka · MySQL · Keycloak · Testcontainers
 Idempotent transfers that never debit twice, even under 20 concurrent requests. Events published through a transactional outbox to Kafka. Loan amortization schedule in BigDecimal. 205 tests against real MySQL and Kafka, CI on 7 services. The tests caught a lost-update bug on account balances; the README tells the story.
 
-**[JobPilot](https://jobpilot-jet.vercel.app)**: AI job-search SaaS
-Next.js 16 · Groq (Llama 3.3 70B) · Clerk · Stripe (test mode) · Supabase · Prisma
-Tailors a CV to each job offer, writes cover letters, preps interviews and tracks applications on a kanban board.
+**[JobPilot](https://jobpilot-jet.vercel.app)**: tailors your CV to each job offer and flags anything your original CV does not support. Next.js, Prisma, Postgres, Groq. Live demo.
 
 **[Cortex](https://cortex-tau-five.vercel.app)**: agentic RAG assistant about my own career
 Python · FastAPI · LangGraph · ChromaDB · React
